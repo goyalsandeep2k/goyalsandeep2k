@@ -9,14 +9,14 @@
 Building AI-powered tools and Claude skills that eliminate the grunt work in program management.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f1b2d?style=for-the-badge&logo=safari&logoColor=white)](https://goyalsandeep2k.github.io)
-[![Skills Market](https://img.shields.io/badge/⚡_Skills_Market-3b82f6?style=for-the-badge)](https://goyalsandeep2k.github.io/claude-skills-market/)
+[![Sandeep's Skills Marketplace](https://img.shields.io/badge/⚡_Skills_Marketplace-3b82f6?style=for-the-badge)](https://goyalsandeep2k.github.io/claude-skills-market/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandgoya)
 
 </div>
 
 ---
 
-## ⚡ Claude Skills Marketplace
+## ⚡ Sandeep's Claude Skills Marketplace
 
 > **I built an open marketplace for Claude AI skills — search, install, and contribute skills that make Claude smarter at real work.**
 
@@ -24,7 +24,7 @@ Building AI-powered tools and Claude skills that eliminate the grunt work in pro
 <tr>
 <td width="60%">
 
-### 🛒 [claude-skills-market](https://goyalsandeep2k.github.io/claude-skills-market/)
+### 🛒 [Sandeep's Claude Skills Marketplace](https://goyalsandeep2k.github.io/claude-skills-market/)
 
 A full-featured skill marketplace built entirely on GitHub Pages — no backend, no Netlify, no external services.
 
@@ -79,7 +79,7 @@ AI-native tooling  ·  TPM systems  ·  Claude agent skills  ·  Open source mar
 ```
 
 - 🤖 Building on top of **Anthropic's Claude Agent SDK** — custom skills that eliminate manual TPM work
-- 📦 Creator of the **Claude Skills Marketplace** — the first open repository for Claude AI skills
+- 📦 Creator of **Sandeep's Claude Skills Marketplace** — the first open repository for Claude AI skills
 - 📈 Head of TPM @ **Intuit** — leading AI-powered program delivery across QuickBooks, VEP, and AiO
 - 🏃 265 → 190 lbs health transformation · Marathon finisher · Half Dome on the bucket list
 
@@ -97,6 +97,6 @@ AI-native tooling  ·  TPM systems  ·  Claude agent skills  ·  Open source mar
 
 <div align="center">
 
-**⚡ [goyalsandeep2k.github.io](https://goyalsandeep2k.github.io) · [Claude Skills Market](https://goyalsandeep2k.github.io/claude-skills-market/) · [LinkedIn](https://linkedin.com/in/sandgoya)**
+**⚡ [goyalsandeep2k.github.io](https://goyalsandeep2k.github.io) · [Sandeep's Claude Skills Marketplace](https://goyalsandeep2k.github.io/claude-skills-market/) · [LinkedIn](https://linkedin.com/in/sandgoya)**
 
 </div>
